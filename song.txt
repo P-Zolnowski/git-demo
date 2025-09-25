@@ -26,3 +26,6 @@ Testing conficts
 
 Conflict test in feature branch
 
+testing of git stash
+
+Start with VS code
